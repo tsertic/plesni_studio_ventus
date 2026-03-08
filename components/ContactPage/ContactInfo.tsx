@@ -71,18 +71,6 @@ export const ContactInfo = () => {
             možete vidjeti popis grupa i njihovih lokacija te u koje vrijeme nas
             tamo možete posjetit
           </p>
-          <ul>
-            <li>
-              - Utorak 19:00 - 20:30{" "}
-              <span className={styles["primary-color"]}>@</span> Magazinska 9a -
-              Društveni Plesovi
-            </li>
-            <li>
-              - Četvrtak 19:00 - 20:30{" "}
-              <span className={styles["primary-color"]}>@</span> Magazinska 9a -
-              Društveni Plesovi
-            </li>
-          </ul>
         </div>
       </section>
     </Wrapper>

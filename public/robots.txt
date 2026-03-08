@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.plesni-studio-ventus.hr
+
+# Sitemaps
+Sitemap: https://www.plesni-studio-ventus.hr/sitemap.xml
